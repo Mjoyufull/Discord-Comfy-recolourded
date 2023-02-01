@@ -16,7 +16,7 @@
 :root {
   --mention-color-bar: #374176;
   --mention-color-background: rgb(54,56,78,0.12);
-  --mention-color-hover: rgba(198, 98, 98, 0.15);
+  --mention-color-hover: rgb(66,68,166,0.11);
   --mention-color: #2196F3;
   --unread-color: #2196F3;
   --chat-buttons: #7289DA;
