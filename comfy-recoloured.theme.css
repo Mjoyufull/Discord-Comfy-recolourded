@@ -1,5 +1,5 @@
 /**
- * @name Colour
+ * @name comfy-recoloured
  * @author Nyria#3863
  * @version 2.2
  * @description Stay comfy while talking to your friends.
@@ -14,14 +14,14 @@
 @import url('https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css');
 
 :root {
-  --mention-color-bar: #3F51B5;
-  --mention-color-background: rgba(198, 98, 98, 0.12);
+  --mention-color-bar: #374176;
+  --mention-color-background: rgb(54,56,78,0.12);
   --mention-color-hover: rgba(198, 98, 98, 0.15);
   --mention-color: #2196F3;
-  --unread-color: #7289DA;
+  --unread-color: #2196F3;
   --chat-buttons: #7289DA;
   --avatar-radius: 4px;
-  --status-radius: 5px;
+  --status-radius: 3px;
   --server-radius: 7px;
   --status-background: url('https://i.imgur.com/ODa8LKK.jpg');
   --online: #43B581;
@@ -39,10 +39,10 @@
 }
 
 .theme-dark {
-  --background-primary: #2A2C34;
-  --background-secondary: #202126;
-  --background-secondary-alt: #3A3D45;
-  --background-tertiary: #222327;
+  --background-primary: #2C2D34;
+  --background-secondary: #242428;
+  --background-secondary-alt: #42454D;
+  --background-tertiary: #212224;
   --background-mobile-primary: #818286;
   --background-mobile-secondary: #1E2233;
   --channeltextarea-background: #343946;
@@ -75,5 +75,4 @@
 }
 
 /* Any custom CSS below here */
-
 
